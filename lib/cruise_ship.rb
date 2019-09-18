@@ -16,5 +16,4 @@ def select_winner(passengers)
       }
 
     puts (select_winner(passengers))=("Amanda Presley")
-  end
 end
