@@ -15,5 +15,5 @@ def select_winner(passengers)
       suite_e: "Crumpet the Elf"
       }
 
-    puts (select_winner(passengers))=("Amanda Presley")
+    puts (select_winner(passengers))=("Amanda Presley".)
 end
